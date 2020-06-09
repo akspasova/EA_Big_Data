@@ -1,5 +1,3 @@
-# EX 1 Category
-
 #!/usr/bin/env python
 
 # Import the sys library 
